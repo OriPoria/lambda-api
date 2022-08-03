@@ -1,0 +1,65 @@
+{
+  "XYZ": {
+    "log": {
+      "level": "INFO",
+      "type": "app",
+      "timestamp": "2022-08-19 05:03:47,401",
+      "pathname": "C:\\Users\\OriPoria\\lambda-api\\.\\main.py",
+      "line": 22,
+      "threadId": 16192,
+      "message": "item: {'name': 'msasdadilk', 'price': 31}"
+    }
+  }
+}
+{
+  "XYZ": {
+    "log": {
+      "level": "INFO",
+      "type": "app",
+      "timestamp": "2022-08-19 05:04:02,657",
+      "pathname": "C:\\Users\\OriPoria\\lambda-api\\.\\main.py",
+      "line": 22,
+      "threadId": 16192,
+      "message": "item: {'name': 'black', 'price': 31}"
+    }
+  }
+}
+{
+  "XYZ": {
+    "log": {
+      "level": "INFO",
+      "type": "app",
+      "timestamp": "2022-08-19 05:10:47,161",
+      "pathname": "C:\\Users\\OriPoria\\lambda-api\\.\\main.py",
+      "line": 20,
+      "threadId": 9956,
+      "message": "item: {'name': 'black', 'price': 31}"
+    }
+  }
+}
+{
+  "XYZ": {
+    "log": {
+      "level": "INFO",
+      "type": "app",
+      "timestamp": "2022-08-19 05:12:50,296",
+      "pathname": "C:\\Users\\OriPoria\\lambda-api\\.\\main.py",
+      "line": 20,
+      "threadId": 6352,
+      "message": "item: {'name': 'black', 'price': 31}"
+    }
+  }
+}
+{
+  "XYZ": {
+    "log": {
+      "level": "INFO",
+      "type": "app",
+      "timestamp": "2022-08-19 05:14:29,508",
+      "pathname": "C:\\Users\\OriPoria\\lambda-api\\.\\main.py",
+      "line": 21,
+      "threadId": 15624,
+      "message": "item: {'name': 'black', 'price': 31}"
+    }
+  }
+}
